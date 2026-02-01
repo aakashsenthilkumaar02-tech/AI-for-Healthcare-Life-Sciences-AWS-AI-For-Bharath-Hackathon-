@@ -1,0 +1,2 @@
+# AI-for-Healthcare-Life-Sciences-AWS-AI-For-Bharath-Hackathon-
+This project is a deep learning system that classifies endoscope images into nine categories—normal scars and eight skin cancer types—to reduce misdiagnosis and increase survival rates to 98%. It utilizes an AWS-powered architecture with ResNet50 and Amazon SageMaker to provide real-time, low-cost preliminary diagnostics for dermatologists
